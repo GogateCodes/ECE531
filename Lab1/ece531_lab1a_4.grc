@@ -126,7 +126,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [221, 63]
+    coordinate: [196, 85]
     rotation: 0
     state: true
 - name: blocks_throttle_0
@@ -145,7 +145,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [458, 60]
+    coordinate: [402, 162]
     rotation: 0
     state: true
 - name: channels_iqbal_gen_0
@@ -163,7 +163,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [579, 127]
+    coordinate: [549, 221]
     rotation: 0
     state: true
 - name: qtgui_const_sink_x_0
